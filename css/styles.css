@@ -151,6 +151,17 @@ header {
     background-color: #404BBF;
 }
 
+.feature-hidden-title {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;    
+}
+
 .feature .subtitle {
     margin-bottom: 8px;
 }
@@ -185,6 +196,10 @@ header {
 .team-card-text {
     text-align: center;
     padding: 32px 0;
+}
+
+.team .subtitle {
+    margin-bottom: 8px;
 }
 
 .title {
