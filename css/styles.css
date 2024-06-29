@@ -61,6 +61,8 @@ header {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
+
 }
 
 .navigation-menu .link:hover,
@@ -82,11 +84,6 @@ header {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding: 24px 0;
-}
-
-.contacts-list .link {
-    padding: 24px 0;
 }
 
 .contacts .link:hover,
